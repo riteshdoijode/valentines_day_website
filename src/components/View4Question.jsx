@@ -44,7 +44,7 @@ const View4Question = ({ onAnswer }) => {
             </div>
 
             <div className="grid grid-cols-2 gap-4 mb-6">
-                {['Yes', 'A', 'B', 'C'].map((label, index) => (
+                {['A. Yes', 'B. A', 'C. B', 'D. C'].map((label, index) => (
                     <motion.button
                         key={index}
                         whileHover={{ scale: 1.05 }}

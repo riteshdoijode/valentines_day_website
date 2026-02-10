@@ -12,7 +12,7 @@ const View3Hype = ({ onYes }) => {
                     className="w-40 h-40 mx-auto rounded-full object-cover shadow-lg mb-4 bg-gray-200"
                 />
                 <h1 className="text-3xl font-bold text-gray-800 font-nunito leading-tight mb-4">
-                    GOOD MY CUTIEPIE 😍
+                    GOOD MORNING MY CUTIEPIE 😍
                 </h1>
                 <p className="text-xl text-gray-600 font-quicksand">
                     Most important question... are you ready?? 😅
