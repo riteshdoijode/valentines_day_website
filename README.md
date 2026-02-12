@@ -17,4 +17,4 @@ If you are developing a production application, we recommend using TypeScript wi
 
 # Website Deployed on Vercel
 
-(https://www.with-love-to-sudeepa.vercel.app)
+https://with-love-to-sudeepa.vercel.app/
